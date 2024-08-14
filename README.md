@@ -27,12 +27,14 @@ npm install
 Mempersiapkan API dari GEMINI melalui link dibawah ini kemudian membuat file .env untuk menampung API nya
 ```
 https://ai.google.dev/gemini-api
+NEXT_PUBLIC_GEMINI_API_KEY =your-gemini-api-key
 ```
 **Step 4:**
 
-Mempersiapkan API dari backend yang sudah disiapkan melalui link dibawah ini 
+Mempersiapkan API dari backend yang sudah disiapkan melalui link dibawah ini dan memasukkannya kedalam file .env 
 ```
 https://github.com/DzulhiRaihan/assistant-chat-backend
+NEXT_PUBLIC_BACKEND_API_URL = your_backend_api_url
 ```
 **Step 5:**
 
