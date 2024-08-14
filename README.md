@@ -42,3 +42,8 @@ Menjalankan aplikasi dengan perintah
 ```
 npm run dev
 ```
+# VIDEO DEMO
+Untuk video demo dapat diakses melalui link berikut 
+```
+https://youtu.be/kBYir3elToA
+```
